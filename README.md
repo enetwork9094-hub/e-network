@@ -3,23 +3,16 @@ Reel creator
 <!DOCTYPE html>
 <html>
 <head>
-<title>E Network</title>
 
 </head>
 
 <body>
 
 <header>
-<h1>E Network</h1>
 <p>Professional Digital & Business Services</p>
 </header>
 
-<nav>
-<a href="#">Home</a>
-<a href="#">Profile</a>
-<a href="#">Services</a>
-<a href="#">Contact</a>
-</nav>
+
 
 <section class="section">
 
@@ -34,14 +27,18 @@ Reel creator
 
 <div class="card">
 <h2>Personal Profile</h2>
-<p>Hello, I am <b>jay Patel</b>. I am a BcA student and interested in business and digital services. I also support my family business and work to build professional networks.</p>
+<p>Hello, I am <b>jay Patel</b>. I am a BCA student and interested in business and digital services. I also support my family business and work to build professional networks.</p>
 </div>
 
 </section>
 
 <section class="section">
 
-<h2>Our Services</h2>
+<h2>Our Services
+- New Car Delivery,
+- New Shop Opening,
+- Product,
+any type of reels </h2>
 
 <div class="services">
 
