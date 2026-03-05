@@ -4,77 +4,7 @@ Reel creator
 <html>
 <head>
 <title>E Network</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<style>
-
-body{
-font-family: Arial, sans-serif;
-margin:0;
-background:#f5f7fa;
-}
-
-header{
-background:#0f172a;
-color:white;
-padding:20px;
-text-align:center;
-}
-
-nav{
-background:#1e293b;
-padding:12px;
-text-align:center;
-}
-
-nav a{
-color:white;
-margin:15px;
-text-decoration:none;
-font-weight:bold;
-}
-
-nav a:hover{
-color:#38bdf8;
-}
-
-.section{
-padding:50px;
-text-align:center;
-}
-
-.card{
-background:white;
-padding:30px;
-margin:20px auto;
-width:80%;
-border-radius:10px;
-box-shadow:0 5px 15px rgba(0,0,0,0.1);
-}
-
-.services{
-display:flex;
-justify-content:center;
-flex-wrap:wrap;
-gap:20px;
-}
-
-.service-box{
-background:white;
-padding:20px;
-width:250px;
-border-radius:10px;
-box-shadow:0 5px 15px rgba(0,0,0,0.1);
-}
-
-footer{
-background:#0f172a;
-color:white;
-text-align:center;
-padding:15px;
-}
-
-</style>
 </head>
 
 <body>
@@ -104,7 +34,7 @@ padding:15px;
 
 <div class="card">
 <h2>Personal Profile</h2>
-<p>Hello, I am <b>Sneh Patel</b>. I am a BBA student and interested in business and digital services. I also support my family business and work to build professional networks.</p>
+<p>Hello, I am <b>jay Patel</b>. I am a BcA student and interested in business and digital services. I also support my family business and work to build professional networks.</p>
 </div>
 
 </section>
